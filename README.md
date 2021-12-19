@@ -2,6 +2,7 @@ Hi there, I'm HooBearB, also known as Flint.
 
 <--------- And that is my cat
 
+I don't know what I'm doing.
 I make games in Python sometimes. 
 Currently working on 3 games at once while finishing none, and trying to learn JavaScript.
 
